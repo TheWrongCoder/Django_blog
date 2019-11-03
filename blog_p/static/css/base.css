@@ -1,0 +1,24 @@
+
+body {
+        font-family: 'Source Sans Pro',
+        sans-serif; font-size: px;
+        background-image: image(C:\\Users\\DELL\\Pictures\\PSwall\\Wall.jpg);
+ }
+
+header {
+        border-bottom: px solid #;
+        margin-bottom: rem;
+        display: flex;
+       }
+
+header h1 a {
+        color: red;
+        text-decoration: none;
+}
+.nav-left { margin-right: auto; }
+.nav-right { display: flex; padding-top: rem; }
+.post-entry { margin-bottom: rem; }
+.post-entry h2 { margin: .rem ; }
+.post-entry h2 a, .post-entry h2 a:visited { color: blue; text-decoration: none; }
+.post-entry p { margin: ; font-weight: ; }
+.post-entry h2 a:hover { color: red; }
